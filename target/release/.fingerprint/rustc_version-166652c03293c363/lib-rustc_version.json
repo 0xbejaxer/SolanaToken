@@ -1,0 +1,1 @@
+{"rustc":2399776480655235991,"features":"[]","target":16001957896045914538,"profile":10803726696109476711,"path":9941911419835413491,"deps":[[15701929599321762124,"semver",false,15576562527387613622]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/rustc_version-166652c03293c363/dep-lib-rustc_version"}}],"rustflags":[],"metadata":9148912539060915279,"config":0}
